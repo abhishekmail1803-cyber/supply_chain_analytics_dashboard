@@ -1,0 +1,4 @@
+supply_chain_analytics_dashboard/
+├── app.py
+├── supply_chain_practice.csv
+└── requirements.txt
