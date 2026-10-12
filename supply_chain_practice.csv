@@ -1,0 +1,184 @@
+Record ID,Snapshot Date,SKU,Product,Supplier,Category,Free Stock,On Order,Weekly Sales,Unit Cost GBP,Lead Time Days,Warehouse,Product Status
+REC-0001,2026-07-06,RICE-5KG,Basmati Rice 5kg,ABC Foods,Rice,400,0,5,12.79,21,London,Active
+REC-0002,2026-07-06,RICE-10KG,Jasmine Rice 10kg,Eastern Imports,Rice,20,0,,11.73,42,London,Active
+REC-0003,2026-07-06,OIL-1L,Sunflower Oil 1L,Global Pantry,Grocery,260,0,30,1.19,21,London,Active
+REC-0004,2026-07-06,SAUCE-500,Soy Sauce 500ml,FreshLink,Sauces,190,0,60,9.85,56,Manchester,Active
+REC-0005,2026-07-06,NOODLE-400,Rice Noodles 400g,Pacific Trading,Grocery,550,50,50,4.29,42,Birmingham,Active
+REC-0006,2026-07-06,COCONUT-400,Coconut Milk 400ml,ABC Foods,Grocery,700,300,0,13.83,56,Birmingham,Active
+REC-0007,2026-07-06,SPICE-100,Curry Powder 100g,Eastern Imports,Grocery,80,0,20,4.21,28,London,Active
+REC-0008,2026-07-06,BEANS-500,Red Kidney Beans 500g,Global Pantry,Grocery,0,0,30,6.55,28,Manchester,Active
+REC-0009,2026-07-06,TEA-250,Black Tea 250g,FreshLink,Grocery,50,200,0,8.19,14,Birmingham,Active
+REC-0010,2026-07-06,FLOUR-1KG,Rice Flour 1kg,Pacific Trading,Grocery,0,0,50,14.22,42,Birmingham,Active
+REC-0011,2026-07-06,TOMATO-400,Canned Tomatoes 400g,ABC Foods,Grocery,260,200,15,1.83,56,London,Active
+REC-0012,2026-07-06,CHICKPEA-400,Chickpeas 400g,Eastern Imports,Grocery,700,0,20,14.64,14,Birmingham,Active
+REC-0013,2026-07-13,RICE-5KG,Basmati Rice 5kg,Eastern Imports,Rice,50,200,40,14.3,21,Birmingham,Discontinued
+REC-0014,2026-07-13,RICE-10KG,Jasmine Rice 10kg,Global Pantry,Rice,80,200,15,5.05,56,Manchester,Active
+REC-0015,2026-07-13,OIL-1L,Sunflower Oil 1L,FreshLink,Grocery,0,200,60,3.49,56,London,Active
+REC-0016,2026-07-13,SAUCE-500,Soy Sauce 500ml,Pacific Trading,Sauces,20,50,40,5.1,56,Manchester,Active
+REC-0017,2026-07-13,NOODLE-400,Rice Noodles 400g,ABC Foods,Grocery,190,200,15,5.99,14,London,Active
+REC-0018,2026-07-13,COCONUT-400,Coconut Milk 400ml,Eastern Imports,Grocery,,300,0,5.84,28,London,Active
+REC-0019,2026-07-13,SPICE-100,Curry Powder 100g,Global Pantry,Grocery,35,200,60,5.83,56,Birmingham,Active
+REC-0020,2026-07-13,BEANS-500,Red Kidney Beans 500g,FreshLink,Grocery,110,50,75,3.03,21,London,Active
+REC-0021,2026-07-13,TEA-250,Black Tea 250g,Pacific Trading,Grocery,550,100,50,4.98,42,Birmingham,Active
+REC-0022,2026-07-13,FLOUR-1KG,Rice Flour 1kg,ABC Foods,Grocery,260,0,30,4.27,21,Manchester,Active
+REC-0023,2026-07-13,TOMATO-400,Canned Tomatoes 400g,Eastern Imports,Grocery,140,300,5,1.47,14,London,Active
+REC-0024,2026-07-13,CHICKPEA-400,Chickpeas 400g,Global Pantry,Grocery,400,300,10,11.79,42,London,Active
+REC-0025,2026-07-20,RICE-5KG,Basmati Rice 5kg,ABC Foods,Rice,110,100,30,16.94,42,Birmingham,Active
+REC-0026,2026-07-20,RICE-10KG,Jasmine Rice 10kg,Eastern Imports,Rice,190,200,0,12.45,56,Manchester,Discontinued
+REC-0027,2026-07-20,OIL-1L,Sunflower Oil 1L,Global Pantry,Grocery,700,300,20,11.15,14,Birmingham,Active
+REC-0028,2026-07-20,SAUCE-500,Soy Sauce 500ml,FreshLink,Sauces,110,50,10,0.75,56,Manchester,Active
+REC-0029,2026-07-20,NOODLE-400,Rice Noodles 400g,Pacific Trading,Grocery,50,300,50,3.61,14,Manchester,Active
+REC-0030,2026-07-20,COCONUT-400,Coconut Milk 400ml,ABC Foods,Grocery,50,100,75,10.63,21,Birmingham,Active
+REC-0031,2026-07-20,SPICE-100,Curry Powder 100g,Eastern Imports,Grocery,700,100,10,16.24,42,London,Active
+REC-0032,2026-07-20,BEANS-500,Red Kidney Beans 500g,Global Pantry,Grocery,260,50,25,1.02,28,Birmingham,Active
+REC-0033,2026-07-20,TEA-250,Black Tea 250g,FreshLink,Grocery,35,0,0,15.01,14,London,Active
+REC-0034,2026-07-20,FLOUR-1KG,Rice Flour 1kg,Pacific Trading,Grocery,550,300,40,1.83,42,London,Active
+REC-0035,2026-07-20,TOMATO-400,Canned Tomatoes 400g,ABC Foods,Grocery,20,50,75,16.13,21,Birmingham,Active
+REC-0036,2026-07-20,CHICKPEA-400,Chickpeas 400g,Eastern Imports,Grocery,190,50,60,16.42,42,Manchester,Active
+REC-0037,2026-07-27,RICE-5KG,Basmati Rice 5kg,Eastern Imports,Rice,550,200,15,5.78,56,Manchester,Active
+REC-0038,2026-07-27,RICE-10KG,Jasmine Rice 10kg,Global Pantry,Rice,80,100,40,8.06,21,London,Active
+REC-0039,2026-07-27,OIL-1L,Sunflower Oil 1L,FreshLink,Grocery,0,0,25,10.29,21,Manchester,Discontinued
+REC-0040,2026-07-27,SAUCE-500,Soy Sauce 500ml,Pacific Trading,Sauces,35,0,0,12.24,14,London,Active
+REC-0041,2026-07-27,NOODLE-400,Rice Noodles 400g,ABC Foods,Grocery,0,300,0,6.09,42,London,Active
+REC-0042,2026-07-27,COCONUT-400,Coconut Milk 400ml,Eastern Imports,Grocery,50,50,75,4.19,21,Manchester,Active
+REC-0043,2026-07-27,SPICE-100,Curry Powder 100g,Global Pantry,Grocery,260,50,60,4.66,35,Birmingham,Active
+REC-0044,2026-07-27,BEANS-500,Red Kidney Beans 500g,FreshLink,Grocery,35,0,5,11.44,28,Birmingham,Active
+REC-0045,2026-07-27,TEA-250,Black Tea 250g,Pacific Trading,Grocery,110,300,40,12.58,56,Manchester,Active
+REC-0046,2026-07-27,FLOUR-1KG,Rice Flour 1kg,ABC Foods,Grocery,400,0,5,7.26,28,London,Active
+REC-0047,2026-07-27,TOMATO-400,Canned Tomatoes 400g,Eastern Imports,Grocery,35,0,15,9.44,21,Birmingham,Active
+REC-0048,2026-07-27,CHICKPEA-400,Chickpeas 400g,Global Pantry,Grocery,20,50,20,4.77,14,Birmingham,Active
+REC-0049,2026-08-03,RICE-5KG,Basmati Rice 5kg,ABC Foods,Rice,700,0,50,1.52,42,London,Active
+REC-0050,2026-08-03,RICE-10KG,Jasmine Rice 10kg,Eastern Imports,Rice,0,0,15,7.32,35,London,Active
+REC-0051,2026-08-03,OIL-1L,Sunflower Oil 1L,Global Pantry,Grocery,,0,30,3.38,14,Birmingham,Active
+REC-0052,2026-08-03,SAUCE-500,Soy Sauce 500ml,FreshLink,Sauces,50,0,40,7.6,56,Manchester,Discontinued
+REC-0053,2026-08-03,NOODLE-400,Rice Noodles 400g,Pacific Trading,Grocery,400,50,,3.22,28,London,Active
+REC-0054,2026-08-03,COCONUT-400,Coconut Milk 400ml,ABC Foods,Grocery,0,200,60,9.54,56,Birmingham,Active
+REC-0055,2026-08-03,SPICE-100,Curry Powder 100g,Eastern Imports,Grocery,0,100,0,8.47,42,London,Active
+REC-0056,2026-08-03,BEANS-500,Red Kidney Beans 500g,Global Pantry,Grocery,0,0,50,14.58,14,Manchester,Active
+REC-0057,2026-08-03,TEA-250,Black Tea 250g,FreshLink,Grocery,0,300,75,4.53,14,Manchester,Active
+REC-0058,2026-08-03,FLOUR-1KG,Rice Flour 1kg,Pacific Trading,Grocery,35,100,60,1.35,14,Birmingham,Active
+REC-0059,2026-08-03,TOMATO-400,Canned Tomatoes 400g,ABC Foods,Grocery,400,100,60,9.22,28,London,Active
+REC-0060,2026-08-03,CHICKPEA-400,Chickpeas 400g,Eastern Imports,Grocery,400,0,,4.59,35,London,Active
+REC-0061,2026-08-10,RICE-5KG,Basmati Rice 5kg,Eastern Imports,Rice,400,0,75,8.15,14,London,Active
+REC-0062,2026-08-10,RICE-10KG,Jasmine Rice 10kg,Global Pantry,Rice,140,100,60,16.94,14,Manchester,Active
+REC-0063,2026-08-10,OIL-1L,Sunflower Oil 1L,FreshLink,Grocery,35,0,50,2.86,28,London,Active
+REC-0064,2026-08-10,SAUCE-500,Soy Sauce 500ml,Pacific Trading,Sauces,35,0,25,3.27,42,Manchester,Active
+REC-0065,2026-08-10,NOODLE-400,Rice Noodles 400g,ABC Foods,Grocery,50,300,60,11.36,14,Manchester,Discontinued
+REC-0066,2026-08-10,COCONUT-400,Coconut Milk 400ml,Eastern Imports,Grocery,,0,50,15.89,14,London,Active
+REC-0067,2026-08-10,SPICE-100,Curry Powder 100g,Global Pantry,Grocery,50,0,5,12.8,21,Birmingham,Active
+REC-0068,2026-08-10,BEANS-500,Red Kidney Beans 500g,FreshLink,Grocery,50,0,60,12.4,21,Manchester,Active
+REC-0069,2026-08-10,TEA-250,Black Tea 250g,Pacific Trading,Grocery,400,100,20,8.66,14,London,Active
+REC-0070,2026-08-10,FLOUR-1KG,Rice Flour 1kg,ABC Foods,Grocery,400,300,30,5.21,14,Birmingham,Active
+REC-0071,2026-08-10,TOMATO-400,Canned Tomatoes 400g,Eastern Imports,Grocery,700,200,10,16.67,21,Manchester,Active
+REC-0072,2026-08-10,CHICKPEA-400,Chickpeas 400g,Global Pantry,Grocery,140,200,50,7.67,14,London,Active
+REC-0073,2026-08-17,RICE-5KG,Basmati Rice 5kg,ABC Foods,Rice,0,0,,9.59,28,Manchester,Active
+REC-0074,2026-08-17,RICE-10KG,Jasmine Rice 10kg,Eastern Imports,Rice,190,50,10,2.78,28,Birmingham,Active
+REC-0075,2026-08-17,OIL-1L,Sunflower Oil 1L,Global Pantry,Grocery,700,0,0,4.12,21,Manchester,Active
+REC-0076,2026-08-17,SAUCE-500,Soy Sauce 500ml,FreshLink,Sauces,0,300,25,9.83,35,Manchester,Active
+REC-0077,2026-08-17,NOODLE-400,Rice Noodles 400g,Pacific Trading,Grocery,550,0,10,14.79,21,Birmingham,Active
+REC-0078,2026-08-17,COCONUT-400,Coconut Milk 400ml,ABC Foods,Grocery,0,200,10,15.77,35,Manchester,Discontinued
+REC-0079,2026-08-17,SPICE-100,Curry Powder 100g,Eastern Imports,Grocery,,300,,4.75,21,Manchester,Active
+REC-0080,2026-08-17,BEANS-500,Red Kidney Beans 500g,Global Pantry,Grocery,0,300,30,1.33,35,London,Active
+REC-0081,2026-08-17,TEA-250,Black Tea 250g,FreshLink,Grocery,35,0,40,5.67,21,London,Active
+REC-0082,2026-08-17,FLOUR-1KG,Rice Flour 1kg,Pacific Trading,Grocery,0,0,75,7.19,28,London,Active
+REC-0083,2026-08-17,TOMATO-400,Canned Tomatoes 400g,ABC Foods,Grocery,700,0,20,11.16,35,Manchester,Active
+REC-0084,2026-08-17,CHICKPEA-400,Chickpeas 400g,Eastern Imports,Grocery,,0,50,16.01,14,Birmingham,Active
+REC-0085,2026-08-24,RICE-5KG,Basmati Rice 5kg,Eastern Imports,Rice,20,0,60,1.32,42,Birmingham,Active
+REC-0086,2026-08-24,RICE-10KG,Jasmine Rice 10kg,Global Pantry,Rice,80,300,,5.81,42,Manchester,Active
+REC-0087,2026-08-24,OIL-1L,Sunflower Oil 1L,FreshLink,Grocery,0,100,30,3.8,14,Manchester,Active
+REC-0088,2026-08-24,SAUCE-500,Soy Sauce 500ml,Pacific Trading,Sauces,110,100,0,15.79,42,Manchester,Active
+REC-0089,2026-08-24,NOODLE-400,Rice Noodles 400g,ABC Foods,Grocery,550,200,,11.63,28,Birmingham,Active
+REC-0090,2026-08-24,COCONUT-400,Coconut Milk 400ml,Eastern Imports,Grocery,0,0,75,10.86,56,London,Active
+REC-0091,2026-08-24,SPICE-100,Curry Powder 100g,Global Pantry,Grocery,550,100,20,5.74,35,Birmingham,Discontinued
+REC-0092,2026-08-24,BEANS-500,Red Kidney Beans 500g,FreshLink,Grocery,110,0,,9.74,21,Birmingham,Active
+REC-0093,2026-08-24,TEA-250,Black Tea 250g,Pacific Trading,Grocery,400,200,30,12.89,21,Manchester,Active
+REC-0094,2026-08-24,FLOUR-1KG,Rice Flour 1kg,ABC Foods,Grocery,260,50,20,9.63,14,Birmingham,Active
+REC-0095,2026-08-24,TOMATO-400,Canned Tomatoes 400g,Eastern Imports,Grocery,50,50,15,13.51,42,Manchester,Active
+REC-0096,2026-08-24,CHICKPEA-400,Chickpeas 400g,Global Pantry,Grocery,80,50,40,7.91,21,Manchester,Active
+REC-0097,2026-08-31,RICE-5KG,Basmati Rice 5kg,ABC Foods,Rice,140,0,,11.44,28,Manchester,Active
+REC-0098,2026-08-31,RICE-10KG,Jasmine Rice 10kg,Eastern Imports,Rice,400,100,75,6.16,21,Manchester,Active
+REC-0099,2026-08-31,OIL-1L,Sunflower Oil 1L,Global Pantry,Grocery,50,300,15,3.95,14,London,Active
+REC-0100,2026-08-31,SAUCE-500,Soy Sauce 500ml,FreshLink,Sauces,35,100,40,14.55,14,Birmingham,Active
+REC-0101,2026-08-31,NOODLE-400,Rice Noodles 400g,Pacific Trading,Grocery,110,100,75,3.87,56,Birmingham,Active
+REC-0102,2026-08-31,COCONUT-400,Coconut Milk 400ml,ABC Foods,Grocery,140,0,30,3.11,56,London,Active
+REC-0103,2026-08-31,SPICE-100,Curry Powder 100g,Eastern Imports,Grocery,700,300,5,7.63,21,Manchester,Active
+REC-0104,2026-08-31,BEANS-500,Red Kidney Beans 500g,Global Pantry,Grocery,190,0,40,9.79,14,Birmingham,Discontinued
+REC-0105,2026-08-31,TEA-250,Black Tea 250g,FreshLink,Grocery,20,200,40,9.36,42,Manchester,Active
+REC-0106,2026-08-31,FLOUR-1KG,Rice Flour 1kg,Pacific Trading,Grocery,80,100,40,13.98,42,Birmingham,Active
+REC-0107,2026-08-31,TOMATO-400,Canned Tomatoes 400g,ABC Foods,Grocery,,50,50,15.32,56,Birmingham,Active
+REC-0108,2026-08-31,CHICKPEA-400,Chickpeas 400g,Eastern Imports,Grocery,140,300,20,4.73,56,Birmingham,Active
+REC-0109,2026-09-07,RICE-5KG,Basmati Rice 5kg,Eastern Imports,Rice,700,50,50,10.92,28,Birmingham,Active
+REC-0110,2026-09-07,RICE-10KG,Jasmine Rice 10kg,Global Pantry,Rice,0,0,,4.52,28,Birmingham,Active
+REC-0111,2026-09-07,OIL-1L,Sunflower Oil 1L,FreshLink,Grocery,190,0,5,3.16,35,Manchester,Active
+REC-0112,2026-09-07,SAUCE-500,Soy Sauce 500ml,Pacific Trading,Sauces,20,0,,1.75,35,Birmingham,Active
+REC-0113,2026-09-07,NOODLE-400,Rice Noodles 400g,ABC Foods,Grocery,190,50,40,1.71,35,Birmingham,Active
+REC-0114,2026-09-07,COCONUT-400,Coconut Milk 400ml,Eastern Imports,Grocery,700,200,60,1.02,42,Birmingham,Active
+REC-0115,2026-09-07,SPICE-100,Curry Powder 100g,Global Pantry,Grocery,140,0,0,5.57,35,Birmingham,Active
+REC-0116,2026-09-07,BEANS-500,Red Kidney Beans 500g,FreshLink,Grocery,190,200,,9.6,42,London,Active
+REC-0117,2026-09-07,TEA-250,Black Tea 250g,Pacific Trading,Grocery,140,0,15,7.8,14,Birmingham,Discontinued
+REC-0118,2026-09-07,FLOUR-1KG,Rice Flour 1kg,ABC Foods,Grocery,80,200,75,13.71,56,London,Active
+REC-0119,2026-09-07,TOMATO-400,Canned Tomatoes 400g,Eastern Imports,Grocery,,0,40,16.69,42,London,Active
+REC-0120,2026-09-07,CHICKPEA-400,Chickpeas 400g,Global Pantry,Grocery,110,100,60,11.51,14,Manchester,Active
+REC-0121,2026-09-14,RICE-5KG,Basmati Rice 5kg,ABC Foods,Rice,110,300,10,8.23,14,Birmingham,Active
+REC-0122,2026-09-14,RICE-10KG,Jasmine Rice 10kg,Eastern Imports,Rice,110,0,25,8.11,28,Birmingham,Active
+REC-0123,2026-09-14,OIL-1L,Sunflower Oil 1L,Global Pantry,Grocery,50,0,30,14.31,35,London,Active
+REC-0124,2026-09-14,SAUCE-500,Soy Sauce 500ml,FreshLink,Sauces,550,0,50,17.0,28,London,Active
+REC-0125,2026-09-14,NOODLE-400,Rice Noodles 400g,Pacific Trading,Grocery,400,300,5,16.3,14,London,Active
+REC-0126,2026-09-14,COCONUT-400,Coconut Milk 400ml,ABC Foods,Grocery,35,300,15,1.03,21,London,Active
+REC-0127,2026-09-14,SPICE-100,Curry Powder 100g,Eastern Imports,Grocery,20,200,40,2.56,21,Birmingham,Active
+REC-0128,2026-09-14,BEANS-500,Red Kidney Beans 500g,Global Pantry,Grocery,550,300,20,6.71,42,Manchester,Active
+REC-0129,2026-09-14,TEA-250,Black Tea 250g,FreshLink,Grocery,550,0,,13.38,21,Birmingham,Active
+REC-0130,2026-09-14,FLOUR-1KG,Rice Flour 1kg,Pacific Trading,Grocery,0,0,60,15.84,42,Manchester,Discontinued
+REC-0131,2026-09-14,TOMATO-400,Canned Tomatoes 400g,ABC Foods,Grocery,110,200,30,3.93,42,Manchester,Active
+REC-0132,2026-09-14,CHICKPEA-400,Chickpeas 400g,Eastern Imports,Grocery,,0,75,2.36,28,Manchester,Active
+REC-0133,2026-09-21,RICE-5KG,Basmati Rice 5kg,Eastern Imports,Rice,260,300,5,16.74,14,Birmingham,Active
+REC-0134,2026-09-21,RICE-10KG,Jasmine Rice 10kg,Global Pantry,Rice,190,200,30,6.74,42,Manchester,Active
+REC-0135,2026-09-21,OIL-1L,Sunflower Oil 1L,FreshLink,Grocery,80,300,0,7.55,35,London,Active
+REC-0136,2026-09-21,SAUCE-500,Soy Sauce 500ml,Pacific Trading,Sauces,110,200,25,15.23,35,Manchester,Active
+REC-0137,2026-09-21,NOODLE-400,Rice Noodles 400g,ABC Foods,Grocery,20,0,30,12.66,56,Birmingham,Active
+REC-0138,2026-09-21,COCONUT-400,Coconut Milk 400ml,Eastern Imports,Grocery,260,300,50,8.58,35,Manchester,Active
+REC-0139,2026-09-21,SPICE-100,Curry Powder 100g,Global Pantry,Grocery,260,0,20,14.58,14,Birmingham,Active
+REC-0140,2026-09-21,BEANS-500,Red Kidney Beans 500g,FreshLink,Grocery,140,300,15,8.27,42,Manchester,Active
+REC-0141,2026-09-21,TEA-250,Black Tea 250g,Pacific Trading,Grocery,110,0,25,8.76,28,London,Active
+REC-0142,2026-09-21,FLOUR-1KG,Rice Flour 1kg,ABC Foods,Grocery,140,0,15,13.7,28,Birmingham,Active
+REC-0143,2026-09-21,TOMATO-400,Canned Tomatoes 400g,Eastern Imports,Grocery,260,0,,9.76,42,London,Discontinued
+REC-0144,2026-09-21,CHICKPEA-400,Chickpeas 400g,Global Pantry,Grocery,0,200,15,7.32,42,London,Active
+REC-0145,2026-09-28,RICE-5KG,Basmati Rice 5kg,ABC Foods,Rice,550,200,40,12.3,35,London,Active
+REC-0146,2026-09-28,RICE-10KG,Jasmine Rice 10kg,Eastern Imports,Rice,0,0,20,7.29,21,Birmingham,Active
+REC-0147,2026-09-28,OIL-1L,Sunflower Oil 1L,Global Pantry,Grocery,400,0,60,8.41,42,Birmingham,Active
+REC-0148,2026-09-28,SAUCE-500,Soy Sauce 500ml,FreshLink,Sauces,110,100,,6.09,56,Birmingham,Active
+REC-0149,2026-09-28,NOODLE-400,Rice Noodles 400g,Pacific Trading,Grocery,50,0,20,4.46,56,London,Active
+REC-0150,2026-09-28,COCONUT-400,Coconut Milk 400ml,ABC Foods,Grocery,80,200,5,9.43,56,London,Active
+REC-0151,2026-09-28,SPICE-100,Curry Powder 100g,Eastern Imports,Grocery,35,200,15,8.59,56,Manchester,Active
+REC-0152,2026-09-28,BEANS-500,Red Kidney Beans 500g,Global Pantry,Grocery,700,100,50,5.31,14,London,Active
+REC-0153,2026-09-28,TEA-250,Black Tea 250g,FreshLink,Grocery,50,0,15,3.62,14,Manchester,Active
+REC-0154,2026-09-28,FLOUR-1KG,Rice Flour 1kg,Pacific Trading,Grocery,190,0,10,1.44,14,Manchester,Active
+REC-0155,2026-09-28,TOMATO-400,Canned Tomatoes 400g,ABC Foods,Grocery,50,0,,11.1,35,London,Active
+REC-0156,2026-09-28,CHICKPEA-400,Chickpeas 400g,Eastern Imports,Grocery,,100,0,5.33,35,Birmingham,Discontinued
+REC-0157,2026-10-05,RICE-5KG,Basmati Rice 5kg,Eastern Imports,Rice,80,0,10,4.82,35,London,Active
+REC-0158,2026-10-05,RICE-10KG,Jasmine Rice 10kg,Global Pantry,Rice,,50,5,8.72,42,Manchester,Active
+REC-0159,2026-10-05,OIL-1L,Sunflower Oil 1L,FreshLink,Grocery,400,0,0,3.13,42,Birmingham,Active
+REC-0160,2026-10-05,SAUCE-500,Soy Sauce 500ml,Pacific Trading,Sauces,0,0,15,9.8,35,Manchester,Active
+REC-0161,2026-10-05,NOODLE-400,Rice Noodles 400g,ABC Foods,Grocery,260,0,60,13.34,35,Birmingham,Active
+REC-0162,2026-10-05,COCONUT-400,Coconut Milk 400ml,Eastern Imports,Grocery,140,300,20,10.29,35,Birmingham,Active
+REC-0163,2026-10-05,SPICE-100,Curry Powder 100g,Global Pantry,Grocery,260,0,60,10.64,56,London,Active
+REC-0164,2026-10-05,BEANS-500,Red Kidney Beans 500g,FreshLink,Grocery,700,200,15,4.14,56,London,Active
+REC-0165,2026-10-05,TEA-250,Black Tea 250g,Pacific Trading,Grocery,20,0,15,9.7,21,London,Active
+REC-0166,2026-10-05,FLOUR-1KG,Rice Flour 1kg,ABC Foods,Grocery,110,200,40,10.38,28,London,Active
+REC-0167,2026-10-05,TOMATO-400,Canned Tomatoes 400g,Eastern Imports,Grocery,35,200,20,5.31,35,London,Active
+REC-0168,2026-10-05,CHICKPEA-400,Chickpeas 400g,Global Pantry,Grocery,400,0,15,13.54,56,Manchester,Active
+REC-0169,2026-10-12,RICE-5KG,Basmati Rice 5kg,ABC Foods,Rice,400,50,15,2.57,21,Manchester,Discontinued
+REC-0170,2026-10-12,RICE-10KG,Jasmine Rice 10kg,Eastern Imports,Rice,20,300,20,3.02,14,London,Active
+REC-0171,2026-10-12,OIL-1L,Sunflower Oil 1L,Global Pantry,Grocery,700,100,20,12.91,42,Birmingham,Active
+REC-0172,2026-10-12,SAUCE-500,Soy Sauce 500ml,FreshLink,Sauces,140,50,5,11.93,56,Birmingham,Active
+REC-0173,2026-10-12,NOODLE-400,Rice Noodles 400g,Pacific Trading,Grocery,50,100,50,8.75,14,Manchester,Active
+REC-0174,2026-10-12,COCONUT-400,Coconut Milk 400ml,ABC Foods,Grocery,0,200,30,5.95,28,London,Active
+REC-0175,2026-10-12,SPICE-100,Curry Powder 100g,Eastern Imports,Grocery,0,200,15,14.33,42,Manchester,Active
+REC-0176,2026-10-12,BEANS-500,Red Kidney Beans 500g,Global Pantry,Grocery,0,300,75,5.09,14,London,Active
+REC-0177,2026-10-12,TEA-250,Black Tea 250g,FreshLink,Grocery,140,200,50,7.91,28,London,Active
+REC-0178,2026-10-12,FLOUR-1KG,Rice Flour 1kg,Pacific Trading,Grocery,260,200,30,13.97,14,Birmingham,Active
+REC-0179,2026-10-12,TOMATO-400,Canned Tomatoes 400g,ABC Foods,Grocery,80,0,30,5.93,14,London,Active
+REC-0180,2026-10-12,CHICKPEA-400,Chickpeas 400g,Eastern Imports,Grocery,80,200,30,8.78,56,Birmingham,Active
+REC-0015,2026-07-13,OIL-1L,Sunflower Oil 1L,FreshLink,Grocery,0,200,60,3.49,56,London,Active
+REC-0046,2026-07-27,FLOUR-1KG,Rice Flour 1kg,ABC Foods,Grocery,400,0,5,7.26,28,London,Active
+REC-0093,2026-08-24,TEA-250,Black Tea 250g,Pacific Trading,Grocery,400,200,30,12.89,21,Manchester,Active
